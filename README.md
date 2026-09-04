@@ -10,11 +10,11 @@
 
 <!-- ================= HERO ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=ABU&fontSize=90&fontColor=00ffcc&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Full-Stack%20in%20Progress&descAlignY=58&descSize=18&descColor=8892b0" width="100%" alt="Abu banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1033,100:0d1117&height=220&section=header&text=ABU&fontSize=90&fontColor=6d28d9&fontAlignY=38&animation=twinkling&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Full-Stack%20in%20Progress&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" alt="Abu banner"/>
 
 <!-- Typing animation — powered by readme-typing-svg -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00FFCC&center=true&vCenter=true&width=650&lines=Building+things+for+the+web...;Learning+something+new+every+day...;Turning+ideas+into+applications...;React+%E2%80%A2+JavaScript+%E2%80%A2+Redux;Python+%E2%80%A2+FastAPI;Becoming+a+full-stack+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+things+for+the+web...;Learning+something+new+every+day...;Turning+ideas+into+applications...;React+%E2%80%A2+JavaScript+%E2%80%A2+Redux;Python+%E2%80%A2+FastAPI;Becoming+a+full-stack+developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,17 +27,26 @@
 <br/>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/status-open_to_work-00ffcc?style=for-the-badge&labelColor=0d1117" alt="status"/>
+  <img src="https://img.shields.io/badge/status-open_to_work-8B5CF6?style=for-the-badge&labelColor=0d1117" alt="status"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/focus-full--stack-8892b0?style=for-the-badge&labelColor=0d1117" alt="focus"/>
+  <img src="https://img.shields.io/badge/focus-full--stack-a78bfa?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 </a>
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=abubacker8593&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="profile views"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d28d9,100:0d1117&height=3&width=100%" width="100%"/>
 
 </div>
 
 <br/>
 
 <!-- ================= ABOUT ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
 ## 👋 About Me
 
@@ -56,6 +65,8 @@ I'm a developer who enjoys turning ideas into working products — from pixel-le
 <br/>
 
 <!-- ================= TECH STACK ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -88,6 +99,8 @@ I'm a developer who enjoys turning ideas into working products — from pixel-le
 <br/>
 
 <!-- ================= PROJECTS ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -181,6 +194,8 @@ Personal developer portfolio with scroll-driven motion and a custom cursor.
 
 <!-- ================= TERMINAL ================= -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
+
 ## 🖥️ Terminal
 
 ```bash
@@ -205,6 +220,8 @@ abu@github:~$ _
 
 <!-- ================= CURRENTLY LEARNING ================= -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
+
 ## 🧠 Currently Learning
 
 <table>
@@ -218,22 +235,26 @@ abu@github:~$ _
 
 <!-- ================= GITHUB STATS ================= -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abubacker8593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubacker8593&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abubacker8593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubacker8593&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abubacker8593&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=abubacker8593&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=6d28d9&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
 ## 🐍 Contribution Activity
 
@@ -257,6 +278,8 @@ abu@github:~$ _
 
 <!-- ================= GOALS ================= -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
+
 ## 🎯 2026 Goals
 
 - [ ] Become a strong full-stack developer
@@ -271,6 +294,8 @@ abu@github:~$ _
 <br/>
 
 <!-- ================= CONNECT ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
 ## 📫 Connect With Me
 
