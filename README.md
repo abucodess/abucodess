@@ -1,16 +1,298 @@
-## Hi there 👋
+<!--
+  ██████████████████████████████████████████████████████████████
+  README.md — GitHub Profile for abubacker8593
+  Replace every [ ... ] placeholder before publishing.
+  Search for "REPLACE" to find every spot that needs your info.
+  ██████████████████████████████████████████████████████████████
+-->
+
+<div align="center">
+
+<!-- ================= HERO ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=ABU&fontSize=90&fontColor=00ffcc&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Full-Stack%20in%20Progress&descAlignY=58&descSize=18&descColor=8892b0" width="100%" alt="Abu banner"/>
+
+<!-- Typing animation — powered by readme-typing-svg -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00FFCC&center=true&vCenter=true&width=650&lines=Building+things+for+the+web...;Learning+something+new+every+day...;Turning+ideas+into+applications...;React+%E2%80%A2+JavaScript+%E2%80%A2+Redux;Python+%E2%80%A2+FastAPI;Becoming+a+full-stack+developer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+<!-- ↑ REPLACE the src above once your own snake workflow generates
+     github-contribution-grid-snake.svg (see the "CONTRIBUTION SNAKE" section
+     near the bottom of this file for the one-time GitHub Actions setup). -->
+
+<br/>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/status-open_to_work-00ffcc?style=for-the-badge&labelColor=0d1117" alt="status"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/focus-full--stack-8892b0?style=for-the-badge&labelColor=0d1117" alt="focus"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ================= ABOUT ================= -->
+
+## 👋 About Me
+
+```txt
+> const abu = {
+    role: "Frontend Developer, becoming Full-Stack",
+    focus: ["JavaScript (advanced)", "React", "Redux Toolkit"],
+    exploring: ["Python", "FastAPI"],
+    builds: "real-world projects, not just tutorials",
+    grinding: "DSA & problem solving, daily",
+  };
+```
+
+I'm a developer who enjoys turning ideas into working products — from pixel-level UI details to the state management underneath. Right now I'm deep in **advanced JavaScript** and **React architecture**, layering in **Redux Toolkit** for scalable state, and stepping into the backend with **Python** and **FastAPI** so I can ship complete, full-stack applications rather than just the frontend half.
+
+<br/>
+
+<!-- ================= TECH STACK ================= -->
+
+## ⚡ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><b>Frontend</b></td>
+<td align="center" width="25%"><b>State Mgmt</b></td>
+<td align="center" width="25%"><b>Backend</b></td>
+<td align="center" width="25%"><b>Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/>
+<sub>+ React Router</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux" /><br/>
+<sub>Redux • Redux Toolkit</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi" /><br/>
+<sub>REST APIs • JSON Server</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👤 User Management App
+**React • Redux Toolkit • Axios • JSON Server • Tailwind CSS**
+
+Role-based access control system with separate admin and user flows.
+
+- 🔐 Authentication & protected routes
+- 🛠️ Admin-side user management + CRUD
+- ✏️ Profile editing
+- 🗃️ Centralized Redux state
+
+[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏍️ Bike Repair Shop
+**React • Tailwind CSS**
+
+A real-world business site built for a bike workshop, focused on a clean service-oriented layout.
+
+- 📋 Service & booking-style layout
+- 📱 Fully responsive design
+- 🎨 Custom Tailwind styling
+
+[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone
+**React • TMDB API**
+
+A streaming-platform UI clone with live movie data.
+
+- 🎞️ Movie browsing via TMDB API
+- 🔌 Third-party API integration
+- 📱 Responsive, grid-based UI
+
+[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Video Generator
+**React • Python • FastAPI**
+
+Concept-to-video generation tool with a Python backend.
+
+- 🧠 AI-powered generation workflow
+- ⚙️ FastAPI backend service
+- 🔁 Content generation pipeline
+
+[`GitHub Repo`](#REPLACE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Portfolio
+**React • Framer Motion • GSAP • Three.js**
+
+Personal developer portfolio with scroll-driven motion and a custom cursor.
+
+- ✨ Framer Motion + GSAP animations
+- 🖱️ Custom cursor, Lenis smooth scroll
+- 📬 Contact section
+
+[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Optional 6th slot — add another project or delete this cell -->
+<sub>More projects on the way — check my pinned repos below. 👇</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= TERMINAL ================= -->
+
+## 🖥️ Terminal
+
+```bash
+abu@github:~$ whoami
+Frontend Developer
+React enthusiast
+JavaScript learner
+Future full-stack developer
+
+abu@github:~$ current_focus
+→ Advanced JavaScript
+→ React architecture
+→ Redux Toolkit
+→ Backend development
+→ FastAPI
+→ Building real-world applications
+
+abu@github:~$ _
+```
+
+<br/>
+
+<!-- ================= CURRENTLY LEARNING ================= -->
+
+## 🧠 Currently Learning
+
+<table>
+<tr><td>🟨</td><td>Advanced JavaScript</td><td>🐍</td><td>Python</td></tr>
+<tr><td>⚛️</td><td>Advanced React</td><td>🚀</td><td>FastAPI</td></tr>
+<tr><td>🗃️</td><td>Redux Toolkit</td><td>🔐</td><td>Authentication & APIs</td></tr>
+<tr><td>🧠</td><td>Data Structures & Algorithms</td><td>🏗️</td><td>Full-Stack Architecture</td></tr>
+</table>
+
+<br/>
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abubacker8593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubacker8593&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=abubacker8593&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/abubacker8593/abubacker8593/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+</div>
 
 <!--
-**abucodess/abucodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ONE-TIME SETUP for the snake above (Platane/snk GitHub Action):
+  1. Create a new repo named exactly "abubacker8593" (your username) with a README —
+     this is your special GitHub profile repo, if you don't have it already.
+  2. Add a workflow file at .github/workflows/snake.yml with the official
+     Platane/snk action (search "Platane snk github action" for the current yaml).
+  3. The action pushes github-contribution-grid-snake.svg to an "output" branch.
+  4. Point the <img> src above at:
+     https://raw.githubusercontent.com/abubacker8593/abubacker8593/output/github-contribution-grid-snake.svg
+  Until step 2–3 are done, this image will not render — that's expected.
 -->
+
+<br/>
+
+<!-- ================= GOALS ================= -->
+
+## 🎯 2026 Goals
+
+- [ ] Become a strong full-stack developer
+- [ ] Master advanced JavaScript
+- [ ] Get highly comfortable with React
+- [ ] Build production-quality applications
+- [ ] Improve DSA and problem-solving
+- [ ] Learn backend architecture in depth
+- [ ] Build applications using FastAPI
+- [ ] Contribute to open source
+
+<br/>
+
+<!-- ================= CONNECT ================= -->
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/abubacker8593"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
+<a href="#REPLACE-linkedin-url"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+<a href="#REPLACE-portfolio-url"><img src="https://skillicons.dev/icons?i=vercel" /></a>&nbsp;
+<a href="mailto:REPLACE@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+<!-- ↑ REPLACE each href: LinkedIn URL, portfolio URL, and email address -->
+
+</div>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer"/>
+
+**Keep building. Keep learning.**
+
+</div>
