@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/focus-full--stack-a78bfa?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 </a>
 <a href="#">
-  <img src="https://komarev.com/ghpvc/?username=abubacker8593&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abubacker8593&label=56&color=6d28d9&style=for-the-badge" alt="profile views"/>
 </a>
 
 <br/><br/>
