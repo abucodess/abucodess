@@ -1,6 +1,6 @@
 <!--
   ██████████████████████████████████████████████████████████████
-  README.md — GitHub Profile for abubacker8593
+  README.md — GitHub Profile for abucodess
   Replace every [ ... ] placeholder before publishing.
   Search for "REPLACE" to find every spot that needs your info.
   ██████████████████████████████████████████████████████████████
@@ -13,6 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1033,100:0d1117&height=220&section=header&text=ABU&fontSize=90&fontColor=6d28d9&fontAlignY=38&animation=twinkling&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Full-Stack%20in%20Progress&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" alt="Abu banner"/>
 
 <!-- Typing animation — powered by readme-typing-svg -->
+
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+things+for+the+web...;Learning+something+new+every+day...;Turning+ideas+into+applications...;React+%E2%80%A2+JavaScript+%E2%80%A2+Redux;Python+%E2%80%A2+FastAPI;Becoming+a+full-stack+developer" alt="Typing SVG" />
 </a>
@@ -33,7 +34,7 @@
   <img src="https://img.shields.io/badge/focus-full--stack-a78bfa?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 </a>
 <a href="#">
-  <img src="https://komarev.com/ghpvc/?username=abubacker8593&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=abucodess&label=Profile+Views&color=6d28d9&style=for-the-badge" alt="profile views"/>
 </a>
 
 <br/><br/>
@@ -48,9 +49,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 👋 About Me
+👋 About Me
 
-```txt
 > const abu = {
     role: "Frontend Developer, becoming Full-Stack",
     focus: ["JavaScript (advanced)", "React", "Redux Toolkit"],
@@ -58,9 +58,8 @@
     builds: "real-world projects, not just tutorials",
     grinding: "DSA & problem solving, daily",
   };
-```
 
-I'm a developer who enjoys turning ideas into working products — from pixel-level UI details to the state management underneath. Right now I'm deep in **advanced JavaScript** and **React architecture**, layering in **Redux Toolkit** for scalable state, and stepping into the backend with **Python** and **FastAPI** so I can ship complete, full-stack applications rather than just the frontend half.
+I'm a developer who enjoys turning ideas into working products — from pixel-level UI details to the state management underneath. Right now I'm deep in advanced JavaScript and React architecture, layering in Redux Toolkit for scalable state, and stepping into the backend with Python and FastAPI so I can ship complete, full-stack applications rather than just the frontend half.
 
 <br/>
 
@@ -68,7 +67,7 @@ I'm a developer who enjoys turning ideas into working products — from pixel-le
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## ⚡ Tech Stack
+⚡ Tech Stack
 
 <table align="center">
 <tr>
@@ -102,88 +101,105 @@ I'm a developer who enjoys turning ideas into working products — from pixel-le
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👤 User Management App
-**React • Redux Toolkit • Axios • JSON Server • Tailwind CSS**
+👤 User Management App
+
+React • Redux Toolkit • Axios • JSON Server • Tailwind CSS
 
 Role-based access control system with separate admin and user flows.
 
-- 🔐 Authentication & protected routes
-- 🛠️ Admin-side user management + CRUD
-- ✏️ Profile editing
-- 🗃️ Centralized Redux state
+🔐 Authentication & protected routes
 
-[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+🛠️ Admin-side user management + CRUD
+
+✏️ Profile editing
+
+🗃️ Centralized Redux state
+
+Live Demo · GitHub Repo
 
 </td>
 <td width="50%" valign="top">
 
-### 🏍️ Bike Repair Shop
-**React • Tailwind CSS**
+🏍️ Bike Repair Shop
+
+React • Tailwind CSS
 
 A real-world business site built for a bike workshop, focused on a clean service-oriented layout.
 
-- 📋 Service & booking-style layout
-- 📱 Fully responsive design
-- 🎨 Custom Tailwind styling
+📋 Service & booking-style layout
 
-[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+📱 Fully responsive design
+
+🎨 Custom Tailwind styling
+
+Live Demo · GitHub Repo
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Netflix Clone
-**React • TMDB API**
+🎬 Netflix Clone
+
+React • TMDB API
 
 A streaming-platform UI clone with live movie data.
 
-- 🎞️ Movie browsing via TMDB API
-- 🔌 Third-party API integration
-- 📱 Responsive, grid-based UI
+🎞️ Movie browsing via TMDB API
 
-[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+🔌 Third-party API integration
+
+📱 Responsive, grid-based UI
+
+Live Demo · GitHub Repo
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Video Generator
-**React • Python • FastAPI**
+🤖 AI Video Generator
+
+React • Python • FastAPI
 
 Concept-to-video generation tool with a Python backend.
 
-- 🧠 AI-powered generation workflow
-- ⚙️ FastAPI backend service
-- 🔁 Content generation pipeline
+🧠 AI-powered generation workflow
 
-[`GitHub Repo`](#REPLACE)
+⚙️ FastAPI backend service
+
+🔁 Content generation pipeline
+
+GitHub Repo
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Portfolio
-**React • Framer Motion • GSAP • Three.js**
+💼 Portfolio
+
+React • Framer Motion • GSAP • Three.js
 
 Personal developer portfolio with scroll-driven motion and a custom cursor.
 
-- ✨ Framer Motion + GSAP animations
-- 🖱️ Custom cursor, Lenis smooth scroll
-- 📬 Contact section
+✨ Framer Motion + GSAP animations
 
-[`Live Demo`](#REPLACE) · [`GitHub Repo`](#REPLACE)
+🖱️ Custom cursor, Lenis smooth scroll
+
+📬 Contact section
+
+Live Demo · GitHub Repo
 
 </td>
 <td width="50%" valign="top">
 
 <!-- Optional 6th slot — add another project or delete this cell -->
+
 <sub>More projects on the way — check my pinned repos below. 👇</sub>
 
 </td>
@@ -196,9 +212,8 @@ Personal developer portfolio with scroll-driven motion and a custom cursor.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 🖥️ Terminal
+🖥️ Terminal
 
-```bash
 abu@github:~$ whoami
 Frontend Developer
 React enthusiast
@@ -214,7 +229,6 @@ abu@github:~$ current_focus
 → Building real-world applications
 
 abu@github:~$ _
-```
 
 <br/>
 
@@ -222,7 +236,7 @@ abu@github:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 🧠 Currently Learning
+🧠 Currently Learning
 
 <table>
 <tr><td>🟨</td><td>Advanced JavaScript</td><td>🐍</td><td>Python</td></tr>
@@ -237,16 +251,16 @@ abu@github:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abubacker8593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubacker8593&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abucodess&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abucodess&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abubacker8593&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=6d28d9&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=abucodess&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=6d28d9&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
 </div>
 
@@ -256,21 +270,21 @@ abu@github:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 🐍 Contribution Activity
+🐍 Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abubacker8593/abubacker8593/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+<img src="https://raw.githubusercontent.com/abucodess/abucodess/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </div>
 
 <!--
   ONE-TIME SETUP for the snake above (Platane/snk GitHub Action):
-  1. Create a new repo named exactly "abubacker8593" (your username) with a README —
+  1. Create a new repo named exactly "abucodess" (your username) with a README —
      this is your special GitHub profile repo, if you don't have it already.
   2. Add a workflow file at .github/workflows/snake.yml with the official
      Platane/snk action (search "Platane snk github action" for the current yaml).
   3. The action pushes github-contribution-grid-snake.svg to an "output" branch.
   4. Point the <img> src above at:
-     https://raw.githubusercontent.com/abubacker8593/abubacker8593/output/github-contribution-grid-snake.svg
+     https://raw.githubusercontent.com/abucodess/abucodess/output/github-contribution-grid-snake.svg
   Until step 2–3 are done, this image will not render — that's expected.
 -->
 
@@ -280,16 +294,23 @@ abu@github:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 🎯 2026 Goals
+🎯 2026 Goals
 
-- [ ] Become a strong full-stack developer
-- [ ] Master advanced JavaScript
-- [ ] Get highly comfortable with React
-- [ ] Build production-quality applications
-- [ ] Improve DSA and problem-solving
-- [ ] Learn backend architecture in depth
-- [ ] Build applications using FastAPI
-- [ ] Contribute to open source
+Become a strong full-stack developer
+
+Master advanced JavaScript
+
+Get highly comfortable with React
+
+Build production-quality applications
+
+Improve DSA and problem-solving
+
+Learn backend architecture in depth
+
+Build applications using FastAPI
+
+Contribute to open source
 
 <br/>
 
@@ -297,13 +318,13 @@ abu@github:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6d28d9,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/abubacker8593"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-<a href="#REPLACE-linkedin-url"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
-<a href="#REPLACE-portfolio-url"><img src="https://skillicons.dev/icons?i=vercel" /></a>&nbsp;
+<a href="https://github.com/abucodess"><img src="https://skillicons.dev/icons?i=github" /></a> 
+<a href="#REPLACE-linkedin-url"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
+<a href="#REPLACE-portfolio-url"><img src="https://skillicons.dev/icons?i=vercel" /></a> 
 <a href="mailto:REPLACE@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 <!-- ↑ REPLACE each href: LinkedIn URL, portfolio URL, and email address -->
@@ -318,6 +339,6 @@ abu@github:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer"/>
 
-**Keep building. Keep learning.**
+Keep building. Keep learning.
 
 </div>
