@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="A tiny pixel hero collecting coins"/>
+<img src="divider.svg" width="100%" alt="A tiny pixel hero collecting coins"/>
 
 </div>
 
@@ -30,7 +30,7 @@
 <table width="100%">
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/face-snake.svg" width="340" alt="Abu — a neon snake zig-zags across the grid and draws the portrait"/>
+      <img src="face-snake.svg" width="340" alt="Abu — a neon snake zig-zags across the grid and draws the portrait"/>
     </td>
     <td width="60%" valign="top">
 
@@ -69,7 +69,7 @@ status: "Shipping production code 🚀"
 
 <div align="center">
 
-<img src="assets/marquee.svg" width="100%" alt="Scrolling tech stack: Python, FastAPI, React, Redux Toolkit, Tailwind, Vite, PostgreSQL, Supabase, GSAP, Framer Motion, Three.js, Docker, Git, Vercel"/>
+<img src="marquee.svg" width="100%" alt="Scrolling tech stack: Python, FastAPI, React, Redux Toolkit, Tailwind, Vite, PostgreSQL, Supabase, GSAP, Framer Motion, Three.js, Docker, Git, Vercel"/>
 
 <br/>
 
