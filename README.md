@@ -5,6 +5,7 @@
   <img
     src="face-snake.svg"
     width="100%"
+    height = "50%"
     alt="Abu — a neon snake zig-zags across the grid and draws the portrait"
   />
 </div>
