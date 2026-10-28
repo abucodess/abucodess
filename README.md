@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ 8-BIT INTRO: a pixel hero bumps ? blocks and the letters A-B-U pop out ============ -->
-<img src="assets/hero.svg" width="100%" alt="ABU — a pixel hero runs and bumps three question blocks that pop out the letters A, B and U"/>
+<img src="hero.svg" width="100%" alt="ABU — a pixel hero runs and bumps three question blocks that pop out the letters A, B and U"/>
 
 <a href="https://github.com/abucodess">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=800&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=%3E+Python+Full-Stack+Developer+%26+Product+Builder;%3E+Crafting+High-Impact+UI+with+React%2C+Redux+Toolkit+%26+Tailwind;%3E+Engineering+Scalable+Backends+with+Python%2C+FastAPI+%26+Supabase;%3E+Shipping+Real-World+Systems+%E2%80%94+Not+Just+Tutorials;%3E+%E6%9C%80%E5%BE%8C%E3%81%AB%E5%8B%9D%E3%81%A4+%E2%80%94+Win+In+The+End." alt="Typing animation"/>
