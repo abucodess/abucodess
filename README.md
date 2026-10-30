@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<!-- ============================================================
-  abucodess profile README
-  Editing guide:
-  - Text in the About / Journey sections is plain Markdown. Just edit it.
-  - Images live in /assets. SVG files are plain text: open one in VS Code
-    and change the words inside <text> tags.
-  - Stats images are generated live by GitHub; nothing to maintain.
-============================================================= -->
+
 
 <div align="center">
   <img src="assets/hero.svg" width="100%" alt="ABU — Full Stack Developer. Two ASCII-art hands reaching toward each other." />
